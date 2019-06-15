@@ -1,0 +1,920 @@
+fileFormatVersion: 2
+guid: 055cef76aa9fb4f41939556494fb1436
+timeCreated: 1520868719
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: xmas yeti sprite(3)_10
+    21300002: xmas yeti sprite(3)_11
+    21300004: xmas yeti sprite(3)_22
+    21300006: xmas yeti sprite(3)_29
+    21300008: xmas yeti sprite(3)_34
+    21300010: xmas yeti sprite(3)_35
+    21300012: xmas yeti sprite(3)_36
+    21300014: xmas yeti sprite(3)_37
+    21300016: xmas yeti sprite(3)_38
+    21300018: xmas yeti sprite(3)_39
+    21300020: xmas yeti sprite(3)_40
+    21300022: xmas yeti sprite(3)_41
+    21300024: xmas yeti sprite(3)_42
+    21300026: xmas yeti sprite(3)_43
+    21300028: xmas yeti sprite(3)_45
+    21300030: xmas yeti sprite(3)_46
+    21300032: xmas yeti sprite(3)_47
+    21300034: xmas yeti sprite(3)_48
+    21300036: xmas yeti sprite(3)_49
+    21300038: xmas yeti sprite(3)_50
+    21300040: xmas yeti sprite(3)_51
+    21300042: xmas yeti sprite(3)_52
+    21300044: xmas yeti sprite(3)_53
+    21300046: xmas yeti sprite(3)_55
+    21300048: xmas yeti sprite(3)_56
+    21300050: xmas yeti sprite(3)_57
+    21300052: xmas yeti sprite(3)_58
+    21300054: xmas yeti sprite(3)_59
+    21300056: xmas yeti sprite(3)_60
+    21300058: xmas yeti sprite(3)_61
+    21300060: xmas yeti sprite(3)_62
+    21300062: xmas yeti sprite(3)_63
+    21300064: xmas yeti sprite(3)_64
+    21300066: xmas yeti sprite(3)_65
+    21300068: xmas yeti sprite(3)_66
+    21300070: xmas yeti sprite(3)_68
+    21300072: xmas yeti sprite(3)_69
+    21300074: xmas yeti sprite(3)_70
+    21300076: xmas yeti sprite(3)_71
+    21300078: xmas yeti sprite(3)_73
+    21300080: xmas yeti sprite(3)_74
+    21300082: xmas yeti sprite(3)_75
+    21300084: xmas yeti sprite(3)_76
+    21300086: xmas yeti sprite(3)_77
+    21300088: xmas yeti sprite(3)_78
+    21300090: xmas yeti sprite(3)_79
+    21300092: xmas yeti sprite(3)_80
+    21300094: xmas yeti sprite(3)_81
+    21300096: xmas yeti sprite(3)_82
+    21300098: xmas yeti sprite(3)_83
+    21300100: xmas yeti sprite(3)_84
+    21300102: xmas yeti sprite(3)_85
+    21300104: xmas yeti sprite(3)_86
+    21300106: xmas yeti sprite(3)_87
+    21300108: xmas yeti sprite(3)_88
+    21300110: xmas yeti sprite(3)_89
+    21300112: xmas yeti sprite(3)_90
+    21300114: xmas yeti sprite(3)_91
+    21300116: xmas yeti sprite(3)_92
+    21300118: xmas yeti sprite(3)_93
+    21300120: xmas yeti sprite(3)_94
+    21300122: xmas yeti sprite(3)_95
+    21300124: xmas yeti sprite(3)_96
+    21300126: xmas yeti sprite(3)_97
+    21300128: xmas yeti sprite(3)_98
+    21300130: xmas yeti sprite(3)_99
+    21300132: xmas yeti sprite(3)_101
+    21300134: xmas yeti sprite(3)_102
+    21300136: xmas yeti sprite(3)_103
+    21300138: xmas yeti sprite(3)_104
+    21300140: xmas yeti sprite(3)_105
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2099
+        width: 167
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2099
+        width: 171
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_37
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2101
+        width: 175
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_38
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2096
+        width: 172
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_39
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 2092
+        width: 164
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_40
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 2092
+        width: 166
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_41
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2096
+        width: 169
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_42
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2092
+        width: 168
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_43
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2083
+        width: 167
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1786
+        width: 168
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1786
+        width: 170
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_47
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1786
+        width: 170
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_48
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1788
+        width: 171
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_49
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1786
+        width: 168
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_50
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1786
+        width: 169
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_51
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1779
+        width: 169
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_52
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1775
+        width: 171
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_53
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1781
+        width: 168
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1488
+        width: 181
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_56
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1483
+        width: 185
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_57
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1479
+        width: 195
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_58
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1555
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_59
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1471
+        width: 214
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_60
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1474
+        width: 188
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_61
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1560
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_62
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1479
+        width: 180
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_63
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1560
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_64
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1484
+        width: 174
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_65
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1489
+        width: 190
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_66
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1488
+        width: 168
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_68
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1527
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_69
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1527
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_70
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1522
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_71
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1500
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_73
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1195
+        width: 168
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_74
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1195
+        width: 197
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_75
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1195
+        width: 223
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_76
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1193
+        width: 254
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_78
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1192
+        width: 291
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_80
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1198
+        width: 308
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_82
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1178
+        width: 324
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_84
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1186
+        width: 319
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_85
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1185
+        width: 311
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_86
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1185
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 888
+        width: 193
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_88
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 893
+        width: 201
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_89
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 881
+        width: 277
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_90
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 888
+        width: 255
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_91
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 888
+        width: 181
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_93
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 888
+        width: 176
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_95
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 888
+        width: 174
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_97
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 888
+        width: 171
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas yeti sprite(3)_99
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 888
+        width: 168
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
